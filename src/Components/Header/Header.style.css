@@ -1,0 +1,23 @@
+.Header {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: purple;
+    color: whitesmoke;
+}
+
+.LeftHeader {
+    height: 80%;
+    width: 30%;
+    font-size: 27px;
+}
+
+.RightHeader {
+    height: 80%;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
